@@ -1,7 +1,7 @@
 ---
 title: About
 ---
-
+Burada sizlere kendi tecrübelerimden ve kendimden bahsedeceğim.
 # The About page
 # v2.0
 # https://github.com/cotes2020/jekyll-theme-chirpy
