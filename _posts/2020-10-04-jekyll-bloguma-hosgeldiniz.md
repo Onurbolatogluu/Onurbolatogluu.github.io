@@ -1,5 +1,5 @@
 ---
-title: Jekyll For Github
+title: Site Hakkında
 author: OnurB
 date: 2020-10-04 14:10:00 +0300
 categories: [Jekyll, Github]
@@ -7,14 +7,8 @@ math: true
 tags: [ilkpost, ilktag]
 ---
 
-## Naming and Path
+## Site Kurulumu Hakkında Gerekli Dökümantasyon;
 
-Ilk post!
+https://github.com/cotes2020/jekyll-theme-chirpy
 
-## Front Matter
-
-
-> **Note**: The posts' ***layout*** has been set to `post` by default, so there is no need to add the variable ***layout*** in Front Matter block.
-
-
-For more knowledge about Jekyll posts, visit the [Jekyll Docs: Posts](https://jekyllrb.com/docs/posts/).
+Sağlıcakla.
