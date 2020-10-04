@@ -1,7 +1,7 @@
 ---
 title: Jekyll For Github
 author: OnurB
-date: 2020-10-10 14:10:00 +0300
+date: 2020-10-04 14:10:00 +0300
 categories: [Jekyll, Github]
 tags: [ilkpost, ilktag]
 ---
